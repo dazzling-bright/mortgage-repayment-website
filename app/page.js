@@ -1,6 +1,6 @@
 import FormInput from "./components/FormInput";
 import ResultSection from "./components/ResultSection";
-import { MortgageProvider } from "./hooks/MortgageContext";
+import { MortgageProvider } from "./hooks/useMortgageContext";
 
 export default function MortgageCalculator() {
   return (
